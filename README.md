@@ -7,6 +7,6 @@
 
 - 💬 Ask me about **Arduino**
 
-Competition News in firebase Hosting  - internet-of-things-bit.web.app
+Competition News in firebase Hosting  - <a href"internet-of-things-bit.web.app">Hosting Link</a>
 ----------------------
 
