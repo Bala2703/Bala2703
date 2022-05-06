@@ -6,5 +6,7 @@
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 💬 Ask me about **Arduino**
+
+Competition News in firebase Hosting  - internet-of-things-bit.web.app
 ----------------------
 
