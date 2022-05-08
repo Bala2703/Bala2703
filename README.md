@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Arduino**
 
-Competition News in firebase Hosting  - <a href="https://internet-of-things-bit.web.app" target="_blank">IoT Competition News</a>
+Event's Dashboard - <a href="https://internet-of-things-bit.web.app" target="_blank">IoT Competition News</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bala2703&show_icons=true&locale=en" alt="bala2703" />
 
