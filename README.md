@@ -12,9 +12,9 @@ Event's Dashboard - <a href="https://internet-of-things-bit.web.app" target="_bl
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bala2703&show_icons=true&locale=en" alt="bala2703" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bala2703&theme=dark&show_icons=true&locale=en" alt="bala2703" />
 <br></br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala2703" alt="bala2703" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala2703&theme=dark" alt="bala2703" />
 </td>
 <td width="50%" align="center">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bala2703&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
