@@ -14,8 +14,7 @@ Event's Dashboard - <a href="https://internet-of-things-bit.web.app" target="_bl
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bala2703" alt="bala2703" /></p>
 
 <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bala2703&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10
-"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bala2703&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 ----------------------
 
