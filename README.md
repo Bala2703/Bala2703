@@ -16,5 +16,6 @@ Event's Dashboard - <a href="https://internet-of-things-bit.web.app" target="_bl
 <td width="50%" align="center">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bala2703&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10
 "/>
+  </td>
 ----------------------
 
