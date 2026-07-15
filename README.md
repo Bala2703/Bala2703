@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bala2703&label=Profile%20views&color=0e75b6&style=flat" alt="bala2703" /> </p>
 
-- 🌱 I’m currently learning **ROS**
-
-- 💬 Ask me about **Arduino**
-
 Event's Dashboard - <a href="https://internet-of-things-bit.web.app" target="_blank">IoT Competition News</a>
 
 <table border="0" align="center">
