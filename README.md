@@ -1,13 +1,16 @@
 ## Hi, I'm Balakumar 👋
 
-Robotics engineer from India. I build ROS 2 navigation and mapping systems: SLAM, Nav2, and multi-robot exploration in simulation.
+Robotics engineer from India with 3+ years building perception, navigation and manipulation for real robots with ROS and ROS 2, from Gazebo simulation to field deployment on outdoor and agricultural robots.
 
-### What I'm working on
+### What I've built
 
-**Multi-robot exploration.** Three robots map an unknown building together in Gazebo, each running its own SLAM, with a shared merged map and a coordinator that splits up the frontiers. ROS 2 Humble, slam_toolbox, Nav2 (Regulated Pure Pursuit), rmw_zenoh.
+- **Outdoor navigation:** GPS + IMU + wheel-odometry EKF fusion, TEB tuning for non-holonomic robots, and a custom slope-aware costmap layer from point-cloud surface normals.
+- **Vision-guided manipulation:** a grape-harvesting arm: YOLOv5 instance segmentation → RealSense depth → 3D grasp point → MoveIt on a Dobot Nova 5 with an OctoMap collision scene.
+- **Semantic navigation:** "Navigate to the man in a white shirt": a Moondream VLM and Qdrant memory pick the goal, and Nav2 drives there (TurtleBot4 sim).
+- **Multi-robot exploration (current):** three robots map an unknown building together in Gazebo, each running its own SLAM, with a merged map and a frontier coordinator. ROS 2 Humble, slam_toolbox, Nav2, rmw_zenoh.
 
 ### Tools
 
-ROS 2 · Nav2 · slam_toolbox · Gazebo · C++ · Python · DDS / Zenoh · Linux
+ROS / ROS 2 · Nav2 · MoveIt · slam_toolbox · Cartographer · robot_localization · Gazebo
 
-Also: Flutter, Angular / TypeScript (earlier app and web work).
+Python · C++ · OpenCV · PCL · YOLOv5 · RealSense · NVIDIA Jetson · Linux
